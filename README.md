@@ -10,12 +10,12 @@
 * **Eu quero** visualizar a lista de alunos matriculados em cada uma das minhas disciplinas,
 * **Para que** eu possa saber quem está participando das minhas aulas.
   
-**US-03: Gerenciamento de Disciplinas (Assumido)**
-* **Como** um professor,
-* **Eu quero** ter acesso e gerenciar as disciplinas que leciono,
-* **Para que** eu possa manter o controle das minhas responsabilidades de ensino.
+**US-03: Visualização de Disciplinas Matriculadas**
+* **Como** um aluno,
+* **Eu quero** ver a lista de todas as disciplinas em que estou matriculado,
+* **Para que** eu possa acompanhar minha grade curricular e saber quais aulas devo frequentar.
 
-**US-04: Gerenciamento de Alunos (Assumido)**
-* **Como** um professor,
-* **Eu quero** visualizar detalhes de um aluno específico,
-* **Para que** eu possa ter informações relevantes sobre os estudantes em minhas disciplinas, como status de matrícula ou contato.
+**US-04: Consulta de Notas e Frequência**
+* **Como** um aluno,
+* **Eu quero** visualizar minhas notas e minha frequência em cada disciplina,
+* **Para que** eu possa monitorar meu desempenho acadêmico e saber se estou em risco de reprovação.
