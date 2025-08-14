@@ -9,3 +9,13 @@
 * **Como** um professor,
 * **Eu quero** visualizar a lista de alunos matriculados em cada uma das minhas disciplinas,
 * **Para que** eu possa saber quem está participando das minhas aulas.
+  
+**US-03: Gerenciamento de Disciplinas (Assumido)**
+* **Como** um professor,
+* **Eu quero** ter acesso e gerenciar as disciplinas que leciono,
+* **Para que** eu possa manter o controle das minhas responsabilidades de ensino.
+
+**US-04: Gerenciamento de Alunos (Assumido)**
+* **Como** um professor,
+* **Eu quero** visualizar detalhes de um aluno específico,
+* **Para que** eu possa ter informações relevantes sobre os estudantes em minhas disciplinas, como status de matrícula ou contato.
