@@ -1,3 +1,7 @@
+### Diagrama de Caso de Uso
+
+<img width="772" height="768" alt="image" src="https://github.com/user-attachments/assets/de8fc073-13d1-4415-a5e3-ff0e52cab2ab" />
+
 ### Histórias de Usuário
 
 **US-01: Autenticação de Usuário**
