@@ -1,6 +1,6 @@
 ### Diagrama de Caso de Uso
 
-<img width="662" height="668" alt="image" src="https://github.com/user-attachments/assets/de8fc073-13d1-4415-a5e3-ff0e52cab2ab" />
+<img width="662" height="668" alt="image" src="https:github.com/user-attachments/assets/de8fc073-13d1-4415-a5e3-ff0e52cab2ab" />
 
 ### Histórias de Usuário
 
